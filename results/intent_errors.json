@@ -1,0 +1,50 @@
+[
+  {
+    "text": "More Information",
+    "intent": "more_info_natural_exploration",
+    "intent_prediction": {
+      "name": "more_info_zipline_tour",
+      "confidence": 0.3720009922981262
+    }
+  },
+  {
+    "text": "More Information",
+    "intent": "more_info_subwing",
+    "intent_prediction": {
+      "name": "more_info_zipline_tour",
+      "confidence": 0.3720009922981262
+    }
+  },
+  {
+    "text": "Tour details",
+    "intent": "tour_details_zipline",
+    "intent_prediction": {
+      "name": "tour_details_natural_exploration",
+      "confidence": 0.3644835352897644
+    }
+  },
+  {
+    "text": "Tour Details",
+    "intent": "tour_details_subwing",
+    "intent_prediction": {
+      "name": "tour_details_natural_exploration",
+      "confidence": 0.3644835352897644
+    }
+  },
+  {
+    "text": "Tips1",
+    "intent": "tips_1",
+    "intent_prediction": {
+      "name": "tips_2",
+      "confidence": 0.5237295627593994
+    }
+  },
+  {
+    "text": "tips1",
+    "intent": "tips_1",
+    "intent_prediction": {
+      "name": "tips_2",
+      "confidence": 0.5237295627593994
+    }
+  }
+]
